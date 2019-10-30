@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Make it SaaS - Methodology', // Title for your website.
-  tagline: 'An efficient way to think large SaaS',
+  title: 'Make it SaaS', // Title for your website.
+  tagline: 'An efficient way to think large SaaS applications',
   url: 'https://makeitsaas.github.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
